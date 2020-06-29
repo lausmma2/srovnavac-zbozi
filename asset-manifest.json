@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/srovnavac-zbozi/static/css/main.60f9e1d7.chunk.css",
+    "main.js": "/srovnavac-zbozi/static/js/main.33606d33.chunk.js",
+    "main.js.map": "/srovnavac-zbozi/static/js/main.33606d33.chunk.js.map",
+    "runtime-main.js": "/srovnavac-zbozi/static/js/runtime-main.2baefcee.js",
+    "runtime-main.js.map": "/srovnavac-zbozi/static/js/runtime-main.2baefcee.js.map",
+    "static/css/2.2c11666b.chunk.css": "/srovnavac-zbozi/static/css/2.2c11666b.chunk.css",
+    "static/js/2.1f167287.chunk.js": "/srovnavac-zbozi/static/js/2.1f167287.chunk.js",
+    "static/js/2.1f167287.chunk.js.map": "/srovnavac-zbozi/static/js/2.1f167287.chunk.js.map",
+    "index.html": "/srovnavac-zbozi/index.html",
+    "precache-manifest.f9f47243b819b3230326dc0ab36c9f8a.js": "/srovnavac-zbozi/precache-manifest.f9f47243b819b3230326dc0ab36c9f8a.js",
+    "service-worker.js": "/srovnavac-zbozi/service-worker.js",
+    "static/css/2.2c11666b.chunk.css.map": "/srovnavac-zbozi/static/css/2.2c11666b.chunk.css.map",
+    "static/css/main.60f9e1d7.chunk.css.map": "/srovnavac-zbozi/static/css/main.60f9e1d7.chunk.css.map",
+    "static/js/2.1f167287.chunk.js.LICENSE.txt": "/srovnavac-zbozi/static/js/2.1f167287.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2baefcee.js",
+    "static/css/2.2c11666b.chunk.css",
+    "static/js/2.1f167287.chunk.js",
+    "static/css/main.60f9e1d7.chunk.css",
+    "static/js/main.33606d33.chunk.js"
+  ]
+}
